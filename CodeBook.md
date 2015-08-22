@@ -1,4 +1,4 @@
-## Variables in dataset
+## Variables in dataset (Explained in next section)
 `````
 SubjectID - Subject's Unique Identification
 Activity - Type Of Activity
